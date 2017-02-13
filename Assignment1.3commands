@@ -1,0 +1,51 @@
+
+pwd: It gives the present
+working directory.
+
+vi: It is a text editor.
+
+touch: it is used to
+changge the timestamps on existing files and directories.
+
+mkdir: It is used to make
+new directory.
+
+rm: It is used to remove
+files and directories.
+
+ls: It is used for list
+files in unix.
+
+echo: It is used to write
+its arguments to standard output.
+
+cat: It is used
+concatenate files and also create single or multiple files and view content of
+file.
+
+who: It displays who
+logged on to the system.
+
+cd: It is used to change
+current directory.
+
+date: It is used to print
+out or change the value of system's time and date information.
+
+cal: It is used to
+display the calendar.
+
+mv: That moves one or
+more files or directories from one place to another.
+
+cp: It used to copy files
+and directories.
+
+which: it is used to
+locate executables in the system.
+
+
+
+
+
+
